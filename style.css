@@ -50,11 +50,11 @@ h2 {
 
 #card1 {
     Background: url("./images/icon-supervisor.svg")  no-repeat 90% 80%;
-    margin-left: 10rem;
+    margin-left: 17rem;
     margin-top: 12rem;
-    padding: 2rem;
-    width: 371px;
-    height: 250px;
+    padding: 1rem;
+    width: 300px;
+    height: 200px;
     background-color: rgb(255, 255, 255);
     border-top: 4px solid  rgb(130, 219, 219);
     border-top-left-radius: 5px;
@@ -67,10 +67,10 @@ h2 {
 #card2 {
     Background: url("./images/icon-team-builder.svg")  no-repeat 90% 80%;
     margin-left: 40rem;
-    margin-top: -28rem;
+    margin-top: -22rem;
     padding: 1rem;
-    width: 371px;
-    height: 250px;
+    width: 300px;
+    height: 200px;
     background-color: rgb(255, 255, 255);
     border-top: 4px solid #eb2626;
     border-top-left-radius: 5px;
@@ -84,8 +84,8 @@ h2 {
     Background: url("./images/icon-karma.svg")  no-repeat 90% 80%;
     margin-left: 40rem;
     padding: 1rem;
-    width: 371px;
-    height: 250px;
+    width: 300px;
+    height: 200px;
     background-color: rgb(255, 255, 255);
     border-top: 4px solid  #ebbd26;
     border-top-left-radius: 5px;
@@ -97,11 +97,11 @@ h2 {
 
 #card4 {
     Background: url("./images/icon-calculator.svg")  no-repeat 90% 80%;
-    margin-top: -29rem;
-    margin-left: 68rem;
+    margin-top: -24rem;
+    margin-left: 63rem;
     padding: 1rem;
-    width: 371px;
-    height: 250px;
+    width: 300px;
+    height: 200px;
     background-color: rgb(255, 255, 255);
     border-top: 4px solid #2692eb;
     border-top-left-radius: 5px;
@@ -131,26 +131,4 @@ h2 {
     font-size: 0.8rem;
 }
    
-
-
-#card1 img {
-    float: right;
-    margin-top:3rem;
-}
-
-#card2 img {
-    float: right;
-    margin-top: -13rem;
-}
-
-#card3 img {
-    float: right;
-    margin-top: -2rem;
-}
-
-#card4 img {
-    margin-top: -12rem;
-    float: right;
-    
-}
 
