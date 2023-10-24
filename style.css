@@ -1,0 +1,156 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap");
+
+
+
+body {
+    padding: 0;
+    margin: 0;
+    font-size: 15px;
+    font-family: "Poppins", sans-serif;
+    background-color: #fafafa;
+      
+}
+
+.container{
+    margin: auto;
+    margin-left: 8rem;
+}
+
+.address {
+    margin: 0 auto;
+    width: 700px; 
+    text-align: center;
+}
+
+
+.address h1 {
+    height: 30px;
+    margin-top: 2rem;
+    font-weight: 200;
+    font-size: 2.5rem;
+    font-family: "Poppins", sans-serif;
+    color: #6b6b6b;
+}
+   
+h2 {
+    height: 30px;
+    color: #4b4b4b;
+    font-size: 2.5rem;
+    font-weight: 700;
+    
+ }  
+
+ h4 {
+    font-size: 1rem;
+    color: #949494;
+    font-weight: 400;
+ }
+
+
+
+#card1 {
+    Background: url("./images/icon-supervisor.svg")  no-repeat 90% 80%;
+    margin-left: 10rem;
+    margin-top: 12rem;
+    padding: 2rem;
+    width: 371px;
+    height: 250px;
+    background-color: rgb(255, 255, 255);
+    border-top: 4px solid  rgb(130, 219, 219);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    filter: drop-shadow(2px 10px 10px #999999);
+}
+
+#card2 {
+    Background: url("./images/icon-team-builder.svg")  no-repeat 90% 80%;
+    margin-left: 40rem;
+    margin-top: -28rem;
+    padding: 1rem;
+    width: 371px;
+    height: 250px;
+    background-color: rgb(255, 255, 255);
+    border-top: 4px solid #eb2626;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    filter: drop-shadow(2px 10px 10px #999999);
+}
+
+#card3 {
+    Background: url("./images/icon-karma.svg")  no-repeat 90% 80%;
+    margin-left: 40rem;
+    padding: 1rem;
+    width: 371px;
+    height: 250px;
+    background-color: rgb(255, 255, 255);
+    border-top: 4px solid  #ebbd26;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    filter: drop-shadow(2px 10px 10px #999999);
+}
+
+#card4 {
+    Background: url("./images/icon-calculator.svg")  no-repeat 90% 80%;
+    margin-top: -29rem;
+    margin-left: 68rem;
+    padding: 1rem;
+    width: 371px;
+    height: 250px;
+    background-color: rgb(255, 255, 255);
+    border-top: 4px solid #2692eb;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    filter: drop-shadow(2px 10px 10px #999999);
+}
+
+
+
+
+
+.container h1 { 
+    color: rgb(0, 0, 0);
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+
+
+
+.container p {
+    width: 260px;
+    margin-top: 1rem;
+    color: rgb(124, 124, 124);
+    font-weight: 400;
+    font-size: 0.8rem;
+}
+   
+
+
+#card1 img {
+    float: right;
+    margin-top:3rem;
+}
+
+#card2 img {
+    float: right;
+    margin-top: -13rem;
+}
+
+#card3 img {
+    float: right;
+    margin-top: -2rem;
+}
+
+#card4 img {
+    margin-top: -12rem;
+    float: right;
+    
+}
+
